@@ -4,4 +4,7 @@ Churn prediction is one of the most popular Big Data use cases. Churn indicates 
 In this project, we will be addressing Customer churn problem for a fictitious telecom company. The company has provided the usage pattern for their  customers for over a period of time along with the info whether particular customer  is churned or not.
 Utilizing the input data, we have to build a model which can predict the customer going to be churned well in advance. The company then targets those customers with special programs or incentives. This approach can bring in huge loss for a company, if churn predictions are  inaccurate, because then firms are wasting incentive money on customers who would  have stayed anyway
 ### Data 
-The data is provided and can be downloaded from 
+The data is provided and can be downloaded from https://github.com/Madhurima2809/Churn-Prediction-Modelling/blob/main.
+### Solution
+From the above business statement it is clear that this is a Binary Classification from and the target data (Churn) is imbalanced. Here, we are more concerned about the minority class (Churn= True).
+##### The solution is developed using Python Jupyter Notebook. It comprises of EDA and fitting of several Classification Models along with evaluation of the models.
